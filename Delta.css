@@ -2,3 +2,8 @@ body {
             background-color: lightsteelblue;
             text-decoration: none;
 }
+}
+.cmd {
+    border: solid;
+    border-radius: 50%;
+}
