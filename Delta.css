@@ -2,8 +2,17 @@ body {
             background-color: lightsteelblue;
             text-decoration: none;
 }
-}
 .cmd {
     border: solid;
     border-radius: 50%;
+}
+.top {
+    float: left;
+}
+.main {
+    float: right;
+}
+.footer {
+    text-align: center;
+    background-color: black;
 }
