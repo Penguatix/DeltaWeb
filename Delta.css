@@ -1,18 +1,23 @@
 body {
-            background-color: lightsteelblue;
-            text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
 }
 .cmd {
-    border: solid;
-    border-radius: 50%;
+border: solid;
+border-radius: 50%;
 }
 .top {
-    float: left;
+float: left;
 }
 .main {
-    float: right;
+float: center;
+text-align: center;
 }
 .footer {
-    text-align: center;
-    background-color: black;
+padding: 55px 20px;
+text-align: center;
+background-color: black;
+color: whitesmoke;
 }
