@@ -1,5 +1,8 @@
 body {
     background-color: rgb(255, 255, 255);
+    background-image: url(https://media.discordapp.net/attachments/1039854415550615592/1049196665745182750/giphy.gif?width=240&height=427);
+    background-repeat: no-repeat;
+    background-size: 100%;
     text-decoration: none;
     padding: 0;
     margin: 0;
@@ -13,6 +16,7 @@ border-radius: 50%;
     background-color: rgba(104, 104, 104, 0.699);
 }
 .main {
+    background-color: rgba(240, 248, 255, 0.39);
 float: center;
 text-align: center;
 }
@@ -21,4 +25,7 @@ padding: 10%;
 text-align: center;
 background-color: rgb(46, 39, 39);
 color: whitesmoke;
+}
+.cmd:hover {
+    color: aquamarine;
 }
